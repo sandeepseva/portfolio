@@ -1,1 +1,1 @@
-This project was designed, developed, and deployed (DDD) by Naveen Andugula.
+This project was designed, developed, and deployed (DDD) by Sandeep Seva.
